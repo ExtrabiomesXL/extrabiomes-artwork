@@ -1,0 +1,49 @@
+[center][img]https://raw.github.com/ExtrabiomesXL/extrabiomes-artwork/master/MCF%20thread/OP%20Logo.png[/img][/center]
+
+[font=verdana,geneva,sans-serif]ExtrabiomesXL is a mod for Minecraft. It adds new biomes that enhance game play and make exploring fun and interesting. ExtrabiomesXL is a collaborative open source project based on the MisterFiber's original idea and mod.[/font]
+
+Prerequisite
+Extrabiomes depends on Minecraft Forge, which is an API, or program layer, that provides many powerful features for modding Minecraft in ways that allow compatibility and interaction between mods. You can download the latest recommended version of Minecraft Forge [url="http://jenkins.minecraftforge.net:7070/job/Forge/forge-recommended/"]here[/url].
+
+Downloads
+Extrabiomes is delivered as one "universal" download that can be used for both SSP and SMP.
+
+
+Latest Recommended Download: 
+Latest Build (quick to have newer features, but may be unstable)
+All versions for Minecraft 1.3+:
+Prior versions (for Minecraft 1.2 and before):
+
+[i]All downloads are ad free.[/i]
+
+Changelog
+The changelog can be found on our [url="https://github.com/ExtrabiomesXL/ExtrabiomesXL/wiki"]wiki[/url].
+
+[center][img]https://raw.github.com/ExtrabiomesXL/extrabiomes-artwork/master/MCF%20thread/collage.png[/img][/center]
+
+
+Credits
+
+Original idea by [i]MisterFiber[/i]
+Development by [url="https://github.com/ExtrabiomesXL/ExtrabiomesXL/graphs/contributors"]open source contributors[/url]
+Artwork, Design and Quality Control by [url="https://github.com/ExtrabiomesXL"]ExtrabiomesXL team members[/url]
+
+Texture Pack Support
+[center][img]https://raw.github.com/ExtrabiomesXL/extrabiomes-artwork/master/MCF%20thread/collage2.png[/img][/center]
+
+
+Support
+
+How to install this mod
+
+FAQ
+
+How to report an error
+[center][img]https://raw.github.com/ExtrabiomesXL/extrabiomes-artwork/master/MCF%20thread/collage3.png[/img][/center]
+
+
+License
+
+Videos & Screenshots
+
+Banners
